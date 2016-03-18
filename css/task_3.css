@@ -1,0 +1,56 @@
+div
+{
+    padding: 20px;
+    border: 1px solid #999;
+}
+
+.main
+{
+    background-color: #eeeeee;
+    overflow: auto;
+}
+
+.name
+{
+    width: 200px;
+    float: left;
+    background-color: white;
+}
+
+div.name > img
+{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+.name > p
+{
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    text-align: left;
+}
+
+
+
+.content
+{
+    margin-left: 270px;
+    margin-right: 200px;
+    background-color: white;
+}
+
+.member
+{
+    width: 120px;
+    float: right;
+    background-color: white;
+}
+
+div.member > img
+{
+    width: 80px;
+    height: 80px;
+    margin-left: 20px;
+    display: inline-block;
+}
