@@ -32,13 +32,13 @@
 .left
 {
     border-radius: 0 0 100px 0;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
 }
 
 .right
 {
     border-radius: 100px 0 0 0;
-    right: 0px;
-    bottom: 0px;
+    right: 0;
+    bottom: 0;
 }
